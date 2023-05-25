@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **anuragkumar.molankala@gmail.com**
 
-- ⚡ Fun fact **GitHub was founded 😉 in April, 2008.**
+- ⚡ Fun fact **GitHub was founded in April, 2008 😉.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
