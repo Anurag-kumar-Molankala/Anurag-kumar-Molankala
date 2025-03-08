@@ -1,16 +1,15 @@
 ![MasterHead](https://user-images.githubusercontent.com/95478989/198955082-6e78ebb5-e1e4-49f9-8d32-6e5af3984dcd.gif)
 <h1 align="center"> 👋 Hello, Welcome to my Github Profile</h1>
 <h1 align="center"> I'm Anurag kumar</h1>
-<h3 align="center">A passionate Front-End Developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/b0476e711d948b5db51678ba19f80da25ccc88d5893852563e216ad833cbeb55/68747470733a2f2f63646e2e66696c65737461636b636f6e74656e742e636f6d2f6566625352313868543575524b756f307a6f4d41"></img>
+<h3 align="center">A passionate Front-End Developer & Power BI Developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anurag-kumar-molankala&label=Profile%20views&color=0e75b6&style=flat" alt="anurag-kumar-molankala" /> </p>
 
-- 🌱 I’m currently learning **Full Stack Web Developer**
+- 🌱 I’m currently learning **Full Stack Web Developer & Power BI**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Anurag-kumar-Molankala](https://github.com/Anurag-kumar-Molankala)
 
-- 💬 Ask me about **HTML, CSS, JavaScript, Bootstrap, jQuery, and React js**
+- 💬 Ask me about **HTML, CSS, JavaScript, Bootstrap, jQuery, React.js, and Power BI**
 
 - 📫 How to reach me **anuragkumar.molankala@gmail.com**
 
@@ -27,5 +26,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anurag-kumar-molankala&show_icons=true&locale=en&layout=compact" alt="anurag-kumar-molankala" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anurag-kumar-molankala&show_icons=true&locale=en" alt="anurag-kumar-molankala" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anurag-kumar-molankala&" alt="anurag-kumar-molankala" /></p>
