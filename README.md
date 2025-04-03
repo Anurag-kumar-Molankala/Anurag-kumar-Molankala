@@ -24,8 +24,8 @@ I have experience working with **sales analytics, financial reporting, customer 
 ## 📊 Power BI Portfolio  
 Here are some of my Power BI projects showcasing **data-driven insights and visualization expertise**:  
 
-### ### 🔹 **Awesome Chocolates Sales Dashboard**  
-📊 **Visualizing sales performance, shipment trends, and geographical insights.**  
+###🔹 **BlinkIT Grocery Sales Dashboard**  
+📈 **Analyzing revenue trends, profit margins, and regional sales insights.**   
 
 ![View Dashboard](https://github.com/Anurag-kumar-Molankala/BlinkIT-Grocery-Sales-Dashboard/blob/main/BlinkIT%20P-04/BlinkIT%20Dashboard.png)([BlinkIT Dashboard](https://github.com/Anurag-kumar-Molankala/BlinkIT-Grocery-Sales-Dashboard))  
 
