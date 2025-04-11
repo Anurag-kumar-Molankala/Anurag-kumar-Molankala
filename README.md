@@ -29,8 +29,7 @@ Here are some of my **top projects**, where I combine data analytics with **visu
 
 ### 🔹 **HR Analytics Dashboard**  
 📌 **Analyzing workforce trends, attrition rates, and job satisfaction using Power BI.**  
-![HR Dashboard](https://github.com/Anurag-kumar-Molankala/HR-Analytics-Dashboard/blob/main/HR_Analytics/HR%20Analysis%20img.png)  
-🔗 [View Project](https://github.com/Anurag-kumar-Molankala/HR-Analytics-Dashboard)  
+[![HR Dashboard](https://github.com/Anurag-kumar-Molankala/HR-Analytics-Dashboard/blob/main/HR_Analytics/HR%20Analysis%20img.png)](https://github.com/Anurag-kumar-Molankala/HR-Analytics-Dashboard)  
 
 ### 🔹 **BlinkIT Grocery Sales Dashboard**  
 📈 **Revenue tracking, profit margins, and regional sales insights.**  
