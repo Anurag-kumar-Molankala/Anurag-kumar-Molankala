@@ -33,8 +33,7 @@ Here are some of my **top projects**, where I combine data analytics with **visu
 
 ### 🔹 **BlinkIT Grocery Sales Dashboard**  
 📈 **Revenue tracking, profit margins, and regional sales insights.**  
-![Sales Dashboard](https://raw.githubusercontent.com/Anurag-kumar-Molankala/BlinkIT-Grocery-Sales-Dashboard/main/BlinkIT%20P-04/BlinkIT%20Dashboard.png)  
-🔗 [View Project](https://github.com/Anurag-kumar-Molankala/BlinkIT-Grocery-Sales-Dashboard)  
+[![Sales Dashboard](https://raw.githubusercontent.com/Anurag-kumar-Molankala/BlinkIT-Grocery-Sales-Dashboard/main/BlinkIT%20P-04/BlinkIT%20Dashboard.png)](https://github.com/Anurag-kumar-Molankala/BlinkIT-Grocery-Sales-Dashboard)  
 
 ### 🔹 **Financial Analysis Dashboard**  
 📌 **Tracking key financial KPIs, cash flow, and expense trends.**  
