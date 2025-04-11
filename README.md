@@ -76,19 +76,9 @@ Here are some of my **top projects**, where I combine data analytics with **visu
 ---
 
 ## 📬 Let's Connect  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/molankala-anurag-kumar-b5a19719a)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/anurag-kumar-molankala-powerbi)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Anurag%20Kumar-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/molankala-anurag-kumar-b5a19719a)  
-📧 **Email:** anuragkumar.molankala@gmail.com  
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/molankala-anurag-kumar-b5a19719a">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="mailto:anuragkumar.molankala@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
-  </a>
-</p>
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anuragkumar.molankala@gmail.com)
 
 ---
 
