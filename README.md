@@ -27,12 +27,12 @@ Here are some of my Power BI projects showcasing **data-driven insights and visu
 ## 🔹 **BlinkIT Grocery Sales Dashboard**  
 📈 **Analyzing revenue trends, profit margins, and regional sales insights.**   
 
-[![View Dashboard](https://raw.githubusercontent.com/Anurag-kumar-Molankala/BlinkIT-Grocery-Sales-Dashboard/main/BlinkIT%20P-04/BlinkIT%20Dashboard.png)](https://github.com/Anurag-kumar-Molankala/BlinkIT-Grocery-Sales-Dashboard)  
+[![View Dashboard](https://raw.githubusercontent.com/Anurag-kumar-Molankala/BlinkIT-Grocery-Sales-Dashboard/main/BlinkIT%20P-04/BlinkIT%20Dashboard.png)](https://github.com/Anurag-kumar-Molankala/BlinkIT-Grocery-Sales-Dashboard)
 
 ### 🔹 **Customer Insights Report**  
-📌 Deep dive into customer demographics, behavior, and retention strategies.  
-🔗 **[View Dashboard](#)** *(Replace with actual link or image)*  
-
+📌 A Power BI dashboard for HR analytics, focusing on attrition, job satisfaction, and workforce insights.  
+ [![View Dashboard](https://github.com/Anurag-kumar-Molankala/HR-Analytics-Dashboard/blob/main/HR_Analytics/HR%20Analysis%20img.png)](https://github.com/Anurag-kumar-Molankala/HR-Analytics-Dashboard)
+ 
 ### 🔹 **Financial Analysis Dashboard**  
 📌 Monitoring key financial KPIs, including cash flow, expenses, and profitability.  
 🔗 **[View Dashboard](#)** *([Replace with actual link or image])*  
