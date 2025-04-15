@@ -10,7 +10,7 @@
 ---
 
 ## 🚀 About Me  
-I am a **Power BI Developer & Data Analyst** with a passion for **transforming raw data into compelling insights** through interactive dashboards. My expertise lies in **data visualization, business intelligence, and UI/UX design principles**, ensuring that dashboards are not just informative but also visually engaging.  
+I am a **Power BI Developer & Data Analyst** with a passion for **transforming raw data into compelling insights** through interactive dashboards. My expertise lies in **data visualisation, business intelligence, and UI/UX design principles**, ensuring that dashboards are not just informative but also visually engaging.  
 
 ### 🔹 My Core Skills:  
 ✅ **Advanced Power BI Development** – Crafting detailed and interactive dashboards  
@@ -20,7 +20,7 @@ I am a **Power BI Developer & Data Analyst** with a passion for **transforming r
 ✅ **SQL & ETL Processes** – Managing large datasets efficiently  
 ✅ **Frontend Web Technologies** – Enhancing dashboards with **HTML, CSS, Bootstrap, JavaScript, and jQuery**  
 
-I specialize in building **sales analytics, financial reports, HR insights, and operational dashboards** that drive business decisions.  
+I specialise in building **sales analytics, financial reports, HR insights, and operational dashboards** that drive business decisions.  
 
 ---
 
@@ -28,16 +28,16 @@ I specialize in building **sales analytics, financial reports, HR insights, and 
 Here are some of my **top projects**, where I combine data analytics with **visual storytelling**:  
 
 ### 🔹 **HR Analytics Dashboard**  
-📌 **Analyzing workforce trends, attrition rates, and job satisfaction using Power BI.**  
+📌 **Analysing workforce trends, attrition rates, and job satisfaction using Power BI.**  
 [![HR Dashboard](https://github.com/Anurag-kumar-Molankala/HR-Analytics-Dashboard/blob/main/HR_Analytics/HR%20Analysis%20img.png)](https://github.com/Anurag-kumar-Molankala/HR-Analytics-Dashboard)  
 
-### 🔹 **BlinkIT Grocery Sales Dashboard**  
+### 🔹 **Blinkit Grocery Sales Dashboard**  
 📈 **Revenue tracking, profit margins, and regional sales insights.**  
 [![Sales Dashboard](https://raw.githubusercontent.com/Anurag-kumar-Molankala/BlinkIT-Grocery-Sales-Dashboard/main/BlinkIT%20P-04/BlinkIT%20Dashboard.png)](https://github.com/Anurag-kumar-Molankala/BlinkIT-Grocery-Sales-Dashboard)  
 
 ### 🔹 **Financial Analysis Dashboard**  
 📌 **Tracking key financial KPIs, cash flow, and expense trends.**  
-🔗 *[Link Coming Soon]*  
+[![Financial Performance Dashboard](https://github.com/Anurag-kumar-Molankala/-Finance-Dashboard/blob/main/Finance%20Analysis%20files/Dashboard%20image.png)](https://github.com/Anurag-kumar-Molankala/-Finance-Dashboard/tree/main/Finance%20Analysis%20files)  
 
 ---
 
